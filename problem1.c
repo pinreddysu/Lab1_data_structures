@@ -39,4 +39,4 @@ void fun1 (double *smp, double *lgp) { //*smp small number pointer *lgp large nu
     }
 }
 
-
+/*Version 4.7*/
