@@ -40,6 +40,7 @@ void fun1 (double *smp, double *lgp) { //*smp small number pointer *lgp large nu
 }
 
 /*
+DECIDE to INCLUDE version 5.0
 ANSWERS:
 -----> 1B Answer:
 //Declaration of function fun1
